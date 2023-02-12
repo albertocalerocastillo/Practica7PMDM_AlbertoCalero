@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+    <string name="lbl_login_fragment">Login</string>
+    <string name="lbl_bienvenida_fragment">¡BIENVENID@!</string>
+
+    <string name="txtLogin">Escriba sus credenciales</string>
+    <string name="btnAcceder">ACCEDER</string>
+    <string name="lblBienvenida">¡BIENVENID@!</string>
+    <string name="usuario">Alberto</string>
+    <string name="clave">01941883Q</string>
+    <string name="borrarCredenciales">Borrar las credenciales</string>
+</resources>
